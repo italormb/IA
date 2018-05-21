@@ -1,0 +1,19 @@
+21/05/2018
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+cromossomo seria o individuo: é umas instancia da população
+ex: cada individuo era uma rede neural diferente
+quão bom (para adptar) está próximo do resultados 
+cross over:depende da sua implementação, metade dos cromossomos, metade'90.
+ax²+b²+c determinar uma quadrática apartir de uma genérica, o vetor [a b c] é o individuo e o a b c são os genes.[a b c]*500 população;
+fitnes verifica se a mutação está adptada, é uma função que vê o quão bom ele está;
+atraves do fitnes que eu determino o meu crossover
+pull é um conjunto de possibilidade
+
+
+
+taxa de apresent
+f.t
+bias 
+momento
+perceptron milticamadas mlp. sigmoide ou a tangente hiperbolica
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
